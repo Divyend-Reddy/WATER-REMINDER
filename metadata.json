@@ -1,0 +1,6 @@
+{
+  "name": "WaterFlow",
+  "description": "Premium water reminder application with fluid wave animations, smart local notifications, achievements, statistics, and highly customizable personal hydration goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
